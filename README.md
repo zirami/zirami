@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Information Security at Post and Telecommunication Institute of Technology.
 - 📫 How to reach me: [:email:](:email:)[thanhthang32k@gmail.com]
 - 😄 Pronouns: zir, zirami, hazir66. 💝
-- ⚡ Fun fact: * Windows, problems? REBOOT!
-               * Linux, problems? BE ROOT!
+- ⚡ Fun fact:  Windows, problems? REBOOT!
+                Linux, problems? BE ROOT!
 
 ## Some of My Github Stats
 
