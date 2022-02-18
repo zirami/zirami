@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ## Some of My Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziramia&show_icons=true&theme=radical)](https://github.com/zirami)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zirami&show_icons=true&theme=radical)](https://github.com/zirami)
