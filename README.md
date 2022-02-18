@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: zir, zirami, hazir66. 💝
 - ⚡ Fun fact: 
 
+## Some of My Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zirami)](https://github.com/anuraghazra/github-readme-stats)
